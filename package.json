@@ -2,7 +2,7 @@
   "name": "@micro-js/keycodes",
   "description": "Map of keycodes to human readable key names",
   "repository": "git://github.com/micro-js/keycodes.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
