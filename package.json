@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/keycodes",
+  "name": "@f/keycodes",
   "description": "Map of keycodes to human readable key names",
   "repository": "git://github.com/micro-js/keycodes.git",
   "version": "1.0.1",
